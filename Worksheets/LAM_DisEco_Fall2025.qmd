@@ -33,3 +33,23 @@ cat("The area of the circle with radius", radius, "is", circle_area, "\n")
 ![](images/EpiTriad.png)
 
 The epidemiological triad is a simplification of a complex web of interactions occurring between host, environment, and pathogen that ultimately results in an epidemiological outbreak.
+
+------------------------------------------------------------------------
+
+**09/22/2025**
+
+Worksheet 2: Sample size for disease detection
+
+1\) Find the sample size necessary to detect a disease at or above 5% prevalence in a herd of 5000 deer. The desired level of confidence is 95%.
+
+A: 59 individuals
+
+2\) Using the hypergeometric distribution, compare the sample size requirements for the following scenarios:
+
+a\) 95% confidence in detecting a disease at 1% prevalence in a large population
+
+b\) 99% confidence in detecting a disease at 2% prevalence in a large population
+
+A: The sample size necessary to detect in condition a) for a population of 5000 frogs would require sampling of 290 individuals. For detection in the case of b) in a population of 5000 frogs, 224 individuals will have to be sampled. It requires less individuals to detect a disease with 2% prevalence at a higher confidence level than it does to detect a disease which is prevalent in 1% of a population, using a lower confidence.
+
+3\) \<1%
