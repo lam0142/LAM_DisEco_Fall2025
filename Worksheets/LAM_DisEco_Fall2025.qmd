@@ -209,3 +209,29 @@ b) When is the prevalence lowest? When is the prevalence highest? Write unit fo
 12\. The Dutch harbor seal population is estimated to be around 5400 with \~50% adults. Seals are susceptible to phocine distemper virus (PDV), but an estimated 40% of the adults in this population are immune to PDV by virtue of prior natural infection. How many seals in this population should be vaccinated in order to achieve herd immunity sufficient to prevent an outbreak of PDV in this population if the R0 is estimated to be \~3? Assume that all the adult seals that have survived prior PDV infection are tagged, and hence identifiable.                                                                                                                                              (**10 points**) 
 
 **The necessary threshold for preventing an outbreak is 1/R~0~ or in this case 1/3. If PDV only causes disease in adult seals, the total number of susceptible individuals is 1,620 seals.  To prevent an outbreak, we need to vaccinate 2/3 of that population or 1,080 untagged seals.**
+
+------------------------------------------------------------------------
+
+**Worksheet 3: Measures of disease frequency: prevalence and incidence**
+
+a\) Find incidence on day 06/12/25, 06/14/25 and 06/15/25. Write the unit for incidence. (9 points)
+
+**06/12/25: 5/51= 0.09 cases per elk-day**
+
+**06/14/25: 2/44= 0.04 cases per elk-day**
+
+**06/15/25: 0/45= 0 cases per elk-day**
+
+b\) What is the prevalence of conjunctivitis on 06/13/25 and on 06/16/25? What is the unit for prevalence. (5 points)
+
+**06/13/25: 2/56= 3.5% prevalence of conjunctivitis among elk**
+
+**06/16/25: 0/56= 0.0% prevalence of conjunctivitis among elk**
+
+c\) On which day is the prevalence the same as the incidence (except the units)? (3 points)
+
+**On 06/16/25 the prevalence was 0.0% and the incidence was 0 cases per elk-day**
+
+d\) On which day is the incidence the lowest? (3 points)
+
+**06/15/25 and 06/16/25**
