@@ -98,7 +98,7 @@ f\. The deer mouse (*Peromyscus maniculatus*) infected with Sin Nombre Virus
 
 3.  Match the following                                                                                                                         (**6 points**)
 
-![](images/Screenshot 2025-10-07 094808.png)
+![](images/Screenshot%202025-10-07%20094808.png)
 
 4\. Moose can get infected by consuming a gastropod infected with *Parelaphostrongylus tenuis* larvae. Infected moose exhibit clinical signs like weakness, incoordination, circling, paralysis, and eventual death. But moose are unable to propagate the parasite. Such hosts are called \_\_\_\_\_\_\_\_\_\_\_\_\_\_.                                                          (**2 points**)
 
@@ -140,7 +140,7 @@ For each state, explain your reasoning and support your answer with at least one
 
 **It is impossible for an individual to show symptoms of a disease that they are not infected with. Such an occurrence would likely be the result of a poor or inaccurate diagnosis or complex psychological complications such as hypochondria.**
 
-![](images/Screenshot 2025-10-07 095706-01.png)
+![](images/Screenshot%202025-10-07%20095706-01.png)
 
 7\. Estimate the incubation period for Campylobacteriosis and Norovirus gastroenteritis from the following Epidemic curves.                                                                                (**4 points**)
 
@@ -152,7 +152,7 @@ For each state, explain your reasoning and support your answer with at least one
 
 9\. In his 1933 book *Game Management*, Aldo Leopold dedicated a chapter to wildlife diseases, stating that wildlife disease is primarily an ecological issue driven largely by human actions. Do you agree with this perspective? Explain your reasoning, using at least two examples from wildlife disease systems to support your answer.                   (**6 points**)
 
-**I believe that wildlife diseases occur regardless of human interactions, however the added stress of anthropogenic activity typically exacerbates the effects any one disease might otherwise have had. One example is of the saiga antelope, who experienced a mass mortality event as the result of abnormal environmental conditions. There are no feasible ways in which humans could have intervened to reduce the severity of the event, however anthropogenic disruptions to the wild populations, such as poaching or habitat loss have a negative effect on the population\'s ability to recover from severe mass mortality events. Another example of this is the bald eagle mass mortality caused by avian vacuolar myelopathy which was found to be a bioaccumulation of aetokthonotoxin (AETX) through the food chain. In this case the mode of infection was so complex that there would not have been a clear method by which to treat infected individuals. However, it is important to note that the mass mortality event was ultimately triggered by anthropogenic activity as the invasive plant species which produced the toxin was most likely introduced by maritime commerce vessels.**
+**I believe that wildlife diseases occur regardless of human interactions, however the added stress of anthropogenic activity typically exacerbates the effects any one disease might otherwise have had. One example is of the saiga antelope, who experienced a mass mortality event as the result of abnormal environmental conditions. There are no feasible ways in which humans could have intervened to reduce the severity of the event, however anthropogenic disruptions to the wild populations, such as poaching or habitat loss have a negative effect on the population's ability to recover from severe mass mortality events. Another example of this is the bald eagle mass mortality caused by avian vacuolar myelopathy which was found to be a bioaccumulation of aetokthonotoxin (AETX) through the food chain. In this case the mode of infection was so complex that there would not have been a clear method by which to treat infected individuals. However, it is important to note that the mass mortality event was ultimately triggered by anthropogenic activity as the invasive plant species which produced the toxin was most likely introduced by maritime commerce vessels.**
 
 10\. Define R~0~. Estimate R~0~ for the following scenario. Red flamingo represents an infectious case, and blue are susceptibles; an arrow indicates transmission. Explain your findings in the context of real-world utility of R~0~. (**10 points**)    
 
@@ -162,12 +162,12 @@ For each state, explain your reasoning and support your answer with at least one
 
 **(1+2+3+0)/4=1.5**
 
-![](images/Screenshot 2025-10-07 095114.png)
+![](images/Screenshot%202025-10-07%20095114.png)
 
 11\. Steve studies a population of the Suwannee Alligator Snapping turtle (*Macrochelys suwanniensis*) in Florida. He has been conducting a mark-recapture study of this population since 2010.  Since 2015, he has documented cases of cutaneous fibroma in this population. The following data was collected by Steve:
 
 | Year | Population estimate | Turtles with fibroma: old cases | Turtles with fibroma: new cases |
-|------|---------------------|---------------------------------|---------------------------------|
+|---------------|---------------|----------------------|----------------------|
 | 2015 | 133                 | 0                               | 4                               |
 | 2016 | 125                 | 2                               | 5                               |
 | 2017 | 112                 | 4                               | 8                               |
@@ -235,3 +235,31 @@ c\) On which day is the prevalence the same as the incidence (except the units)?
 d\) On which day is the incidence the lowest? (3 points)
 
 **06/15/25 and 06/16/25**
+
+------------------------------------------------------------------------
+
+**Worksheet 4: Multihost pathogens, Spillover**
+
+1.  MERS-CoV is primarily maintained in human populations.
+
+    False, camels are the primary reservoir species for the MERS-CoV virus.
+
+2.  Camels serve as the main animal reservoir for MERS-CoV
+
+    True
+
+3.  Humans are dead-end hosts for MERS-CoV
+
+    True
+
+4.  The estimated case fatality rate for human MERS-CoV infections is approximately 65%.
+
+    False, the fatality rate for human cases is 35%
+
+5.  The epidemic curve shows a point source outbreak.
+
+    True
+
+6.  Global MERS cases have declined sharply since 2019. Why do you think this decline occurred? Discuss possible ecological, epidemiological, and behavioral factors that may have contributed to the trend.
+
+    The global decline in MERS cases may have declined significantly because of significant changes in international travel behavior due to restrictions during the Covid-19 pandemic. Infected individuals are less likely to come in contact with others and therefore give the virus less opportunity to spread before the infection subsides.
