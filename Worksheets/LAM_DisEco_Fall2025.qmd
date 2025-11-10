@@ -167,7 +167,7 @@ For each state, explain your reasoning and support your answer with at least one
 11\. Steve studies a population of the Suwannee Alligator Snapping turtle (*Macrochelys suwanniensis*) in Florida. He has been conducting a mark-recapture study of this population since 2010.  Since 2015, he has documented cases of cutaneous fibroma in this population. The following data was collected by Steve:
 
 | Year | Population estimate | Turtles with fibroma: old cases | Turtles with fibroma: new cases |
-|---------------|---------------|----------------------|----------------------|
+|-----------------|-----------------|--------------------|--------------------|
 | 2015 | 133                 | 0                               | 4                               |
 | 2016 | 125                 | 2                               | 5                               |
 | 2017 | 112                 | 4                               | 8                               |
@@ -279,5 +279,29 @@ I would classify this outbreak as an emerging infectious disease (EID). As descr
 1.  What measures could be implemented to reduce the risk of transmission in both community and healthcare settings?
 
 According to the reading, Nutt 2025, the use of personal protective equipment (PPE) was highly effective in reducing transmission between infected individuals and caregivers in both a community and healthcare setting. Public education campaigns which promoted seeking out treatment early on when case symptoms emerged was also significantly beneficial in managing the outbreak. Enhancements to clinical care facilities, including the use of genomic analysis for contact tracing and mechanical ventilation, were advancements in clinical care that also played a large role.
+
+------------------------------------------------------------------------
+
+**Worksheet 6**
+
+Pond 1
+
+Prevalence: 30%
+
+95% CI: (14%-2.5%)
+
+Fisher's exact test p-value: 0.1987
+
+Interpretation- There is no statistical difference in the prevalence of *Vertico* among fish in ponds 1 and 2.
+
+Pond 2
+
+Prevalence: 6.7%
+
+95% CI: (0.3%-30%)
+
+Fisher's exact test p-value: 0.1987
+
+Interpretation- There is no statistical difference in the prevalence of *Vertico* among fish in ponds 1 and 2
 
 ------------------------------------------------------------------------
