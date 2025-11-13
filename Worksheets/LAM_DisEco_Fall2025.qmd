@@ -167,7 +167,7 @@ For each state, explain your reasoning and support your answer with at least one
 11\. Steve studies a population of the Suwannee Alligator Snapping turtle (*Macrochelys suwanniensis*) in Florida. He has been conducting a mark-recapture study of this population since 2010.  Since 2015, he has documented cases of cutaneous fibroma in this population. The following data was collected by Steve:
 
 | Year | Population estimate | Turtles with fibroma: old cases | Turtles with fibroma: new cases |
-|-----------------|-----------------|--------------------|--------------------|
+|------------------|------------------|-------------------|-------------------|
 | 2015 | 133                 | 0                               | 4                               |
 | 2016 | 125                 | 2                               | 5                               |
 | 2017 | 112                 | 4                               | 8                               |
@@ -303,5 +303,29 @@ Prevalence: 6.7%
 Fisher's exact test p-value: 0.1987
 
 Interpretation- There is no statistical difference in the prevalence of *Vertico* among fish in ponds 1 and 2
+
+------------------------------------------------------------------------
+
+**Worksheet 7**
+
+Nipah Virus
+
+Nipah virus ecology varies across regions, resulting in distinct patterns of transmission in places like Malaysia and Bangladesh. Describe how the modes of transmission differ between these two regions and explain how these differences influence the preventative measures recommended in each setting.
+
+The mode of Nipah virus transmission in Malaysia is typically the result of infection by bridge hosts. The primary reservoir of Nipah virus are bats, such as the Indian flying fox, however human infection typically occurs after exposure to a bridge host, such as pigs or livestock, which were exposed to food that was half eaten by bats or bat feces. In Bangladesh, the typical mode of transmission is the consumption of contaminated food products, especially date palm sap, which is collected in baskets where the bats will feed and defecate into.
+
+The difference in transmission modes directly impact the mitigation methods used to reduce the spread of the virus. In Malaysia, public education about the risk of interactions with pigs and livestock can encourage people to reduce interactions with pigs or livestock. In Bangladesh, food safety standards can be improved to require date palm sap farmers to protect their gear from bat intrusion.
+
+Avian Reovirus
+
+Avian Reovirus (ARV) can be transmitted through multiple routes. Describe the different transmission routes of ARV and explain which environmental factors favor its transmission. What pathogen characteristics support one of these transmission routes? Finally, provide an example of a wild bird disease caused by ARV and briefly describe its impact on the affect population.
+
+ARV is mainly transmitted via the fecal-oral route, where the feces from an infected individual is ingested by a healthy host, which then results in the healthy individual falling sick. A secondary mode of transmission is via the respiratory tract, aerosilized virus can be inhaled and cause illness in healthy individuals. Outbreaks in high-intensity poultry production are usually the result of overcrowding, poor poultry house hygiene (not routinely cleaning out house and changing the litter or down), or contaminated feed or water. Outbreaks typically occur in colder months when birds are encouraged to aggregate together for warmth, the close proximity to one another increases the likelihood of viral transmission. ARVs are hardy and can survive outside of a host on feathers, litter, metal, and glass for up to 6 days, and even longer in water. They are resistant to high and low temperature stress, pH variability and to many conventional household cleaners. A winter mortality of crows was identified in 2001 over a broad range of North America and Europe and discovered to be caused by corvid orthoreovirus, which inflicts MME on crow colonies who aggregate together for warmth during winter months.
+
+Langya henipavirus
+
+Langya henipavirus (LayV) is an emerging zoonotic virus first identified in China. Describe the likely reservoir and transmission route of Langya virus. Why is LayV classified as a spillover and not a potential EID?
+
+The likely reservoirs are shrews and the transmission route is either through direct or indirect contact with shrews or domestic animals and livestock which have been exposed to half-eaten food or feces from infected shrews. LayV is classified as a spillover and not a potential EID because it is localized to the Shandong and Henan provinces in China.
 
 ------------------------------------------------------------------------
