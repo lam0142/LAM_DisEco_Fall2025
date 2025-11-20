@@ -36,7 +36,7 @@ The epidemiological triad is a simplification of a complex web of interactions o
 
 ------------------------------------------------------------------------
 
-**09/22/2025**
+# **09/22/2025**
 
 Worksheet 2: Sample size for disease detection
 
@@ -55,6 +55,8 @@ A: The sample size necessary to detect in condition a) for a population of 5000 
 3\) \<1%
 
 ------------------------------------------------------------------------
+
+# **10/03/2025**
 
 **EXAM 1**
 
@@ -167,7 +169,7 @@ For each state, explain your reasoning and support your answer with at least one
 11\. Steve studies a population of the Suwannee Alligator Snapping turtle (*Macrochelys suwanniensis*) in Florida. He has been conducting a mark-recapture study of this population since 2010.  Since 2015, he has documented cases of cutaneous fibroma in this population. The following data was collected by Steve:
 
 | Year | Population estimate | Turtles with fibroma: old cases | Turtles with fibroma: new cases |
-|------------------|------------------|-------------------|-------------------|
+|------------------|------------------|------------------|------------------|
 | 2015 | 133                 | 0                               | 4                               |
 | 2016 | 125                 | 2                               | 5                               |
 | 2017 | 112                 | 4                               | 8                               |
@@ -212,6 +214,8 @@ b) When is the prevalence lowest? When is the prevalence highest? Write unit fo
 
 ------------------------------------------------------------------------
 
+# 10/07/2025
+
 **Worksheet 3: Measures of disease frequency: prevalence and incidence**
 
 a\) Find incidence on day 06/12/25, 06/14/25 and 06/15/25. Write the unit for incidence. (9 points)
@@ -237,6 +241,8 @@ d\) On which day is the incidence the lowest? (3 points)
 **06/15/25 and 06/16/25**
 
 ------------------------------------------------------------------------
+
+# 10/23/2025
 
 **Worksheet 4: Multihost pathogens, Spillover**
 
@@ -266,6 +272,8 @@ d\) On which day is the incidence the lowest? (3 points)
 
 ------------------------------------------------------------------------
 
+# 11/03/2025
+
 **Worksheet 5**
 
 **Marburg Virus Outbreak , Rwanda 2024**
@@ -281,6 +289,8 @@ I would classify this outbreak as an emerging infectious disease (EID). As descr
 According to the reading, Nutt 2025, the use of personal protective equipment (PPE) was highly effective in reducing transmission between infected individuals and caregivers in both a community and healthcare setting. Public education campaigns which promoted seeking out treatment early on when case symptoms emerged was also significantly beneficial in managing the outbreak. Enhancements to clinical care facilities, including the use of genomic analysis for contact tracing and mechanical ventilation, were advancements in clinical care that also played a large role.
 
 ------------------------------------------------------------------------
+
+# 11/10/2025
 
 **Worksheet 6**
 
@@ -306,6 +316,8 @@ Interpretation- There is no statistical difference in the prevalence of *Vertico
 
 ------------------------------------------------------------------------
 
+# 11/17/2025
+
 **Worksheet 7**
 
 Nipah Virus
@@ -329,3 +341,59 @@ Langya henipavirus (LayV) is an emerging zoonotic virus first identified in Chin
 The likely reservoirs are shrews and the transmission route is either through direct or indirect contact with shrews or domestic animals and livestock which have been exposed to half-eaten food or feces from infected shrews. LayV is classified as a spillover and not a potential EID because it is localized to the Shandong and Henan provinces in China.
 
 ------------------------------------------------------------------------
+
+# **11/19/2025**
+
+**Worksheet 8**
+
+61 raccoons were examined for roundworm (*Baylisascaris procyonis*) presence during autopsy. the following statistics are an analysis of the autopsy results.
+
+**Summary-**
+
+*B. procyonis* was present in 47.2% (37.7% - 56.8%; at 95% CI) of raccoons examined during the survey. Round worms were found in raccoons from every region (North, Central, and South) but infection was observed to be more prevalent in the Central (64.3%; 17.0% - 42.8% at 95% CI of raccoons infected) and South (62.8%; 37.1% - 84.7% at 95% CI of raccoons infected) regions than in the North (28.6%; 47.7% - 75.9% at 95% CI of raccoons infected) (p-value: 0.0016). Roundworm infection was observed to be more prevalent in females (65.1%; 55.2% - 73.7% at 95% CI) than males, however there was no significant difference in infections between the sexes across any of the regions (p-value: 0.2269). Of the raccoons that were infected with round worm, 65% (55.2% - 73.7%; at 95% CI) were young adults. There was a significant difference in the distribution of infections between ageclasses across regions, with 92.9% (68.3% - 99.6% at 95% CI) of infections in the Central region, 51.0% (36.6% - 65.2% at 95% CI) of infections in the North region, and 72.1% (57.0% - 84.1% at 95% CI) of infections in each regions being observed in young adults (p-value: 0.0067).
+
+Overall, *B. procyonis* infection in raccoons during the 2013 and 2014 outbreaks in Missouri and Arkansas affected almost half of the overall population. Raccoons from the Central and South regions were more susceptible than those in the North regions, an there was a slightly increased risk of infection among females.
+
+**STATS-**
+
+Prevalence of *B. procyonis* (Sterne's conf int)
+
+infected: 47.2%; 95% CI (37.7% - 56.8%)
+
+Prevalence of *B. procyonis* within region (Sterne's conf int) and between regions (Fisher's exact comp):
+
+North_Infected: 28.6%; 95% CI (17.0% - 42.8%)
+
+Central_Infected: 64.3%; 95% CI (37.1% - 84.7%)
+
+South_Infected: 62.8%; 95% CI (47.7% - 75.9%)
+
+Two-sided p-value: 0.0016
+
+Prevalence of *B. procyonis* between males and females (Sterne's conf int):
+
+sex_F: 65.1%; 95% CI (55.2% - 73.7%)
+
+Prevalence between sexes within each region (Sterne's conf int) and between regions (Fischer's exact comp):
+
+North_F: 57.1%; 95% CI (42.8% - 70.6%)
+
+Central_F: 64.3%; 95% CI (37.1% - 84.7%)
+
+South_F: 74.4%; 95% CI (59.4% - 85.5%)
+
+Two-sided p-value: 0.2269
+
+Prevalence of *B. procyonis* between ageclass (Sterne's conf int):
+
+ageclass_YA: 65.1%; 95% CI (55.2% - 73.7%)
+
+Prevalence of *B. procyonis* between ageclass within each region (Sterne's conf int) and between each region (Fischer's exact comp):
+
+North_YA: 51.0%; 95% CI (36.6% - 65.25%)
+
+Central_YA: 92.95%; 95% CI (68.3%- 99.6%)
+
+South \_YA: 72.1%; 95% CI (57.0% - 84.1%)
+
+Two-sided p-value: 0.0067
