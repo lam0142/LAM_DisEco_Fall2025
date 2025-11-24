@@ -397,3 +397,61 @@ Central_YA: 92.95%; 95% CI (68.3%- 99.6%)
 South \_YA: 72.1%; 95% CI (57.0% - 84.1%)
 
 Two-sided p-value: 0.0067
+
+------------------------------------------------------------------------
+
+# 11/24/2025
+
+**Term Project**
+
+Disease Ecology FORY 7200
+
+11/24/2025
+
+From: Luke Matvey
+
+To: Alabama Department of Public Health-
+
+            I am writing to the Alabama Department of Public Health to reinforce the necessity of continuing countermeasures to prevent an mpox clade IIb resurgence outbreak. It is the state\'s responsibility to ensure the safety of its citizens by taking measures to reduce the risk of dangerous viral outbreaks such as clade IIb mpox. In my letter I will define key information about the virus and suggest outbreak prevention and response measures in the case of resurgence for consideration by the state authority.
+
+Monkeypox virus (MPXV), causing Mpox, is an enveloped double-stranded DNA virus from the Poxviridae family, which is subdivided into two different clades, clade I and clade II each with their own respective -a and -b subclades (World Health Organization, 2024). Mpox is a zoonotic virus endemic to the West African and Congo Basin. Its natural reservoir remains unknown, however the role of non-human primates, rodents, and domestic pigs have been highlighted as important factors of infection at the animal-human interface (Doty et al., 2017). The virus spreads during close human-human contact and can also be contracted from contact with contaminated clothing or linens, or needles in shared spaces such as health care or tattoo parlors (World Health Organization, 2024). Infection causes rash, fever, sore throat, and headaches among other symptoms however the most predominant symptoms are skin lesions which may be difficult to distinguish between other lesion-presenting infections. Lesions manifest all over the body including the face, mouth, throat, palms of hands and feet, and groin/genital region (World Health Organization, 2024). The recommended diagnostic method includes swabbing lesions for identification using DNA polymerase chain reaction (PCR) technique. Treatment includes the management of symptoms to reduce pain and complications, specifically the rash. People who are identified to be at high-risk of infection are eligible for vaccination. High-risk individuals include health care workers, people in the same household as an infected individual, and people with multiple sexual partners especially gay men (World Health Organization, 2024).
+
+In 2003 there was a prominent outbreak of clade II mpox in the U.S. associated with the importation of prairie dogs which results in 47 confirmed and probable cases of mpox across six states (CDC, 2024b). The virus was thought to be transmitted to the prairie dogs during cohousing with other African exotic pets while being transported to the U.S. for sale (Reynolds et al., 2006). During this outbreak there were no incidences of human-human transmission. Patients were cited to have contracted the virus through a variety of other means, including bites or scratches, handling animals without being bitten, and even simply being in the same room as infected animals (Reed et al., 2004).
+
+In 2022, an outbreak of clade IIb began in the Democratic Republic of the Congo (DRC) and spread globally via travel by infected persons, resulting in more than 114,000 cases worldwide (CDC, 2025b). The exact source of the outbreak remains undetermined; however, the global spread is attributed to travel-related cases contracted while in the region and transmitted upon arrival outside of the African continent. High density points of interest during travel, such as airports or train stations, and confined spaces associated with travel, such as airplanes and train cars, can increase the risk of transmission.
+
+In August of 2022, 19 cases of clade II mpox were reported in the state of Alabama but have been reduced to zero since then (Alabama Department of Public Health, 2022). The reduction in case numbers can be attributed to effective vaccination, infection-induced immunity, and public education regarding transmission routes, however the CDC warns that the risk of an mpox resurgence outbreak when reintroduced to the U.S. is greater than 35% (CDC, 2023). Resurgence risk may increase in the case that new infections are introduced from other countries, as new-unvaccinated people become sexually active, or if people who are highly sexually active do not receive the vaccine. Additional ways that resurgence may arise are as immunity wanes across the recovered and vaccinated population or if the virus mutates (CDC, 2024a). There are no known cases of clade 1 mpox in the U.S. as of May 10, 2024, and the risk an outbreak is classified as extremely by the CDC (CDC, 2023). Regardless, the state authority has the responsibility to continue campaigns which have proven successful in reducing the risk of an outbreak.
+
+Effective measures to limit the transmission of mpox include the quarantine of infected individuals at home or in hospitals, a reduction or taking a break entirely from sexual activity with new partners, and strict adherence to infection prevention and control measures by health care workers (World Health Organization, 2024). Public education efforts have also proven to be effective in educating travelers about potential risks of infection when traveling to destinations of concern, the CDC yellow book is one such valuable resource (CDC, 2025a). It is important to inform demographics which are especially at risk and warn them against high-risk behavior, such as immunocompromised individuals, health care workers, and men who take part in sexual intercourse with other men.
+
+I value and support the Departments continued dedication to protecting public health.
+
+A concerned citizen,
+
+Luke Matvey
+
+References:
+
+Alabama Department of Public Health. (2022, August 8). *Alabama Department of Public Health continues monkeypox response* \[News release\]. https://www.alabamapublichealth.gov/blog/2022/08/nr-08.html
+
+CDC. (2023, April 4). *Risk Assessment of Mpox Resurgence and Vaccination considerations*. Monkeypox. https://archive.cdc.gov/poxvirus/mpox/images/monkeypox.jpg
+
+CDC. (2024a, May 10). *Mpox Rapid Risk Assessment---Previous Updates*. Monkeypox. https://archive.cdc.gov/www_cdc_gov/forecast-outbreak-analytics/about/mpox-previous-updates.html
+
+CDC. (2024b, September 13). *Past U.S. Cases and Outbreaks*. Monkeypox. https://www.cdc.gov/monkeypox/outbreaks/past-us-cases/index.html
+
+CDC. (2025a, June 25). *Table of Contents*. Yellow Book. https://www.cdc.gov/yellow-book/hcp/contents/index.html
+
+CDC. (2025b, September 29). *Clade II Monkeypox Outbreaks around the World*. Monkeypox. https://www.cdc.gov/monkeypox/outbreaks/2022/index-1.html
+
+Doty, J. B., Malekani, J. M., Kalemba, L. N., Stanley, W. T., Monroe, B. P., Nakazawa, Y. U., Mauldin, M. R., Bakambana, T. L., Liyandja Dja Liyandja, T., Braden, Z. H., Wallace, R. M., Malekani, D. V., McCollum, A. M., Gallardo-Romero, N., Kondas, A., Peterson, A. T., Osorio, J. E., Rocke, T. E., Karem, K. L., ... Carroll, D. S. (2017). Assessing Monkeypox Virus Prevalence in Small Mammals at the Human--Animal Interface in the Democratic Republic of the Congo. *Viruses*, *9*(10), 283. https://doi.org/10.3390/v9100283
+
+Reed, K. D., Melski, J. W., Graham, M. B., Regnery, R. L., Sotir, M. J., Wegner, M. V., Kazmierczak, J. J., Stratman, E. J., Li, Y., Fairley, J. A., Swain, G. R., Olson, V. A., Sargent, E. K., Kehl, S. C., Frace, M. A., Kline, R., Foldy, S. L., Davis, J. P., & Damon, I. K. (2004). The Detection of Monkeypox in Humans in the Western Hemisphere. *New England Journal of Medicine*, *350*(4), 342--350. https://doi.org/10.1056/NEJMoa032299
+
+Reynolds, M. G., Yorita, K. L., Kuehnert, M. J., Davidson, W. B., Huhn, G. D., Holman, R. C., & Damon, I. K. (2006). Clinical Manifestations of Human Monkeypox Influenced by Route of Infection. *The Journal of Infectious Diseases*, *194*(6), 773--780. https://doi.org/10.1086/505880
+
+World Health Organization. (2024, August 26). *Fact sheets: Mpox*. Mpox. https://www.who.int/news-room/fact-sheets/detail/mpox
+
+------------------------------------------------------------------------
+
+# 
