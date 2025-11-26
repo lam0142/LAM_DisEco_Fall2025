@@ -480,3 +480,17 @@ Specific human behaviors that contributed to the zoonotic spread of *Salmonella*
 # 11/25/2025
 
 **Worksheet 10**
+
+1.  What are the different routes of transmission for African Swine fever? What role do humans play in the spread and transmission of ASF?
+
+    1.  Transmission occurs both by direct interaction between infected pigs, pork products, or swine production related material such as feed, equipment, trucks etc.. A second route is the vector-borne transmission by tick hosts, in which the virus can persist for months. Humans play a mechanical role in the transmission of the virus, meaning that while they themselves are not a host of the virus, the handling and transport of pigs and pork products facilitates the transport of the virus.
+
+2.  Describe how co-infection with Koala retrovirus (KoRV) affects the severity, progression, and management of Chlamydia in koalas?
+
+    1.  KoRV co-infection suppresses the koala's immune system response to subsequent infections such as Chlamydia. Koalas with KoRV have a higher rate of Chlamydia infection and a higher bacterial load during infection because of the immune suppression by the Korv. Progression of the Chlamydia among the koala population has been exacerbated by the reduction of their habitat, greatly increasing the frequency of koala-koala interaction. The most effective management strategies so far have been antibiotic therapies, habitat restoration, and vaccine research.
+
+3.  Snake Fungal Disease (SFD), caused by *Ophidiomyces ophiodiicola*, is an emerging threat to wild snake populations in North America.
+
+    What are the key challenges associated with the surveillance and management of Snake Fungal Disease (SFD)
+
+    1.  Some of the surveillance and management challenges associate with SFD include the long incubation period and time until onset of symptoms. Snakes maybe infected with SFD for months before symptoms become apparent. Screening animals for infection is also highly intensive as it requires molecular analysis (qPCR) of multiple swab samples from a single individual to determine whether they are infected.
