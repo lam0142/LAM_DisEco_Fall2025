@@ -494,3 +494,214 @@ Specific human behaviors that contributed to the zoonotic spread of *Salmonella*
     What are the key challenges associated with the surveillance and management of Snake Fungal Disease (SFD)
 
     1.  Some of the surveillance and management challenges associate with SFD include the long incubation period and time until onset of symptoms. Snakes maybe infected with SFD for months before symptoms become apparent. Screening animals for infection is also highly intensive as it requires molecular analysis (qPCR) of multiple swab samples from a single individual to determine whether they are infected.
+
+------------------------------------------------------------------------
+
+# 12/5/2025
+
+**Final Exam**
+
+1\. True or False. If false, explain why the statement is incorrect (10 points)
+
+\
+a. Per the community--epidemiology continuum proposed by Fenton and Pedersen (2005), a disease caused by a pathogen with high between-species transmission and no within--target species transmission will be termed a spillover.
+
+**False, a spillover requires the within-species transmission rate to be too low to sustain the pathogen while the between-species transmission rate is also low, but greater than zero. this this case infections do occur sporadically but they are not rampant. What is described in the question above better fits the definition of an apparent multihost pathogen, where within-species transmission rates are low but the between-species transmission is very high.**
+
+\
+b. A viral disease that is transmitted to susceptible hosts only by vectors is infectious as well as contagious.
+
+**False, a contagious disease can be transferred between individuals directly, without the need for a vector of transport. An example of a infectoius disease that is not contagious is Tetanus, which requires the bacteria to enter through an open wound and cannot be transmitted between individuals.**
+
+\
+c. The eggs of *Baylisascaris procyonis* can be transmitted to humans by direct\
+contact immediately after excretion by an infected raccoon.
+
+**False, the eggs of *Baylisascaris procyonis* must be ingested by a host to cause infections however, the eggs are ready to infect a host as soon as they are excreted**
+
+\
+d. A fungus growing on tall fescue leaves is responsible for decreased feed intake in cattle grazing on this grass, resulting in reduced weight gain and lower milk production.
+
+**True**
+
+\
+e. Northern cardinals are considered superspreaders species for West Nile virus.
+
+**False, the American Robins are considered the superspreaders. Northern cardinals are actually considered the supersupressors because they are a less competent host of WNV.**
+
+\
+2. List the community-based interventions used for preventing *dracunculiasis*\
+transmission in endemic regions. Explain how each intervention interrupts specific stages of the Guinea worm life cycle. How have these strategies evolved in recent years given the emergence of animal (particularly dog) infections? (10 points)
+
+**Community-based interventions used to prevent *dracunculiasis* transmission include:**
+
+-   **Public education: Through education, people can be warned not to interact with common water source when infected and reduce the total amount of *dracunculiasis* larvae present. People can also then take measures to clean their water and prevent themselves from getting infected. If people only drink clean water and do not recontaminate their water sources by trying to relieve burning sensations in water sources, then Guinea worm larvae will not make it into the human GI tract and the release off eggs from infected individuals will be interrupted.**
+
+-   **Supplying water filters: Water filters can be used to remove harmful eggs, larvae, and copepods from the water and prevent infection from consuming tainted water. This can prevent initial infection of individuals with the worm through consumption of the copepod intermediate hosts.**
+
+-   **Sourcing water from safe underground wells: water from underground wells is highly unlikely to be contaminated with *dracunculiasis* eggs because infected individuals are not going to be able to relieve their symptoms in the body of water, never giving the worm an opportunity to release eggs.**
+
+-   **Applying safe chemical treatment to water sources: Chemical treatment can be used to kill copepods present in the drinking water source without tainting it or making it unfit for human consumption. This prevents initial infection from human consumption of contaminated water since there will be no pathogen present to ingest.**
+
+**The discovery of dogs as an alternate definitive host made the erradication of Guinea worm much more difficult because dogs are free-roaming in this part of the world and they will eat the fish entrails during the fish harvest season, which were contaminated with Guinea worm larvae-containing copepods, causing disease. Since they are free-roaming, these dogs then travel around reinfecting water sources as they try to alleviate their symptoms. To tackle the issue of dog infections, they had to tie infected dogs up so that they do not have access to common water sources.**
+
+\
+3. Chronic wasting disease (CWD) is an emerging prion disease of cervids and one of the most significant wildlife conservation challenges in North America. What are the main obstacles wildlife agencies face in managing and controlling CWD? (10 points)
+
+**CWD is spread by direct and indirect contact with infection individuals and prions shed into the environment. Additionally, vectors of infection include plants and ticks, which can infect individuals when they are eaten or bitten. CWD infects cervid species, with most cases originating in facilities were cervids are kept captive. Species such as mule deer, white-tailed deer, elk, moose, and reindeer are all susceptible and may be kept in these facilities for game hunting purposes. Outbreaks occur when an infected individual escapes the enclosure and interacts with wild populations. The natural ranges of these cervid species often overlap, as is the case with mule deer and white-tailed deer, and can lead to mass outbreaks among wild populations. Other outbreaks occur when an infected individual is transported between facilities in captivity. In one case, an infected elk was transported form the US to South Korea and caused an outbreak.**
+
+**Ways in which CWD is spread include the natural overlap between wild populations, the movement and distribution of infected individuals between captive facilities, infected individuals escaping said facilities, the transportation of carcasses after hunting, through contact with infected animal by-products (feces, saliva, urine, etc.), and common grounds where cervids might congregate, such as bait feeders or salt licks.**
+
+**Management challenges include the fact that there is no vaccine or treatment to cure infection with, there are limited tools with which to manage it. Individuals who are in the infectious state are still pre- or early-symptomatic and are difficult to identify. Lastly, there is the potential for asymptomatic transmission fro direct interaction or from the environment, which gives the pathogen time to establish among the population before even being identified. There are also multiple stakeholders involved, meaning that there are regulations around how the cervids can be treated by state, private, and public stakeholders. Current strategies include restricting the movement of wild cervids, increasing hunting pressure to reduce population density and inhibit CWD transfer.**
+
+**The most effective methods so far are phase-specific strategies which tailor management strategies to the prevalence phase at which CWD is currently established, either pre-introduction, pre-establishment, transition, and endemic phases. Different management strategies can be applied during different phases for better results. For example, sustainable surveillance focuses on predicting the amount of CWD present in the population during treatment by using analytic approaches to determine how the pathogen is establishing among a population. Preemptive strategies need to be managed regionally and include plans like stochastic fadeout, which manage things like harvest strategies to impede the spread of CWD.**
+
+\
+4. You are given data from a closed study population of 60 RFID-tagged armadillos monitored at sampling stations (no capture required). At the start of the study (December 2024) none were infected with *Mycobacterium leprae*. During the follow-up period, monthly assessments documented the following counts of infected animals in the population:\
+• March 2025: 3 infected\
+• April 2025: 5 infected\
+• May 2025: 5 infected\
+• June 2025: 8 infected\
+• July 2025: 13 infected\
+(No deaths, births, immigration, or recovery occurred during the study.)
+
+\
+a. Calculate the monthly incidence of *M. leprae* infection. Show your calculations\
+and state the units.\
+(5 points)
+
+**Incidence in March 2025: 3/60 --\> 0.05 cases per armadillo-month**
+
+**Incidence in April 2025: 2/57 --\> 0.035 cases per armadillo-month**
+
+**Incidence in May 2025: 0/55 --\> 0.000 cases per armadillo-month**
+
+**Incidence in June 2025: 3/52 --\> 0.057 cases per armadillo-month**
+
+**Incidence in July 2025: 5/47 --\> 0.106 cases per armadillo-month**
+
+\
+b. Which month had the highest prevalence? Which month had the lowest\
+prevalence? Show your calculations and state the units. (5 points)
+
+**Prevalence in March 2025: 3/60 --\> 0.05 or 5%**
+
+**Prevalence in April 2025: 5/60 --\> 0.083 or 8.3%**
+
+**Prevalence in May 2025: 5/60 --\> 0.083 or 8.3%**
+
+**Prevalence in June 2025: 8/60 --\> 0.133 or 13.3%**
+
+**Prevalence in July 2025: 13/60 --\> 0.216 or 21.6%**
+
+**The month of July had the highest prevalence of *M. leprae* infection among armadillo (21.6%), while the month of March had the lowest (5%).**
+
+\
+5. A beaver carcass was found at the Gunnison River Whitewater Park, Gunnison,\
+Colorado in October 2025. Samples collected during the postmortem examination were submitted to the Veterinary Diagnostic Lab. The lab reported that the animal was positive for Tularemia.
+
+\
+a. Name the etiological agent of this disease. What subspecies of this agent causes Tularemia in aquatic animals like beavers? (2 points)
+
+**The etiological agent of this disease is the bacteria *Francisella tularensis*, and the subspecies which might cause infection in aquatic animals like beavers is *F. tularensis* subspecies *holartica*, referred to as the aquatic cycle or Type B.**
+
+\
+b. What are the different routes of transmission for this agent? (2 points)
+
+**The routes of transmission of this agent differ between cycles. You can get Type A from direct contact with an infected animal, such as small mammals, or from infected tick and fly bites. Type B can be contracted through the ingestion of contaminated water, close contact with small aquatic mammals (such as beavers), through infected tick and fly bites, or through infected mosquito bites. Lastly, it can be inhaled and cause infection.**
+
+\
+c. Describe key features/characteristics of this pathogen in the context of human health/public health. (3 points)
+
+**The extremely low infectious dose of *F. tularensis*, only requiring 10-50 organisms, is a major concern for public health because even the slightest exposure could lead to infection. As an intracellular pathogen, the bactiera can evade the immunesystem by hiding out inside of the host cells. There has not been any reports of human-human transmission of the pathogen. Signs and symptoms may vary depending on the mode of transmission. Ingesting the bacteria can lead to cervical lymphadenopathy while fly, tick, and mosquito bites may result in ulcer formation at the bite site. Feral and outside cats should be a concern as they have the habit of hunting rabbits. Also human activities like lawn mowing can aerosolize the pathogen and lead to pneumatic tularemia. The best advice is to avoid direct contact with dead small mammals like rabbits. Intesive treatment wtih doxycycline has proven successful in the past.**
+
+\
+6. Match the following (5 points)
+
+\
+a. Fungal pathogen of conservation concern **------** 2. *Ophidiomyces ophiodiicola*
+
+b\. Avian Vacuolar Myelinopathy **---------------** 4. Aetokthonotoxin
+
+c\. Tick-transmitted viral disease **---------------** 1. Powassan encephalitis
+
+d\. Foreign Animal Disease **----------------------** 6. African Swine Fever
+
+e\. Bell's palsy, Bulls-eye rash **-------------------** 3. *Borrelia burgdorferi*
+
+5\. *Pseudogymnoascus destructans*
+
+\
+7. Refer to the life cycle of blacklegged tick to answer 7a -- 7d. (8 points)
+
+\
+a. The two stages of blacklegged tick that can potentially transmit Lyme disease to humans are: \_\_\_**nymph**\_\_\_ and \_\_\_**adult**\_\_\_.
+
+\
+b. Preferred hosts of the larval stage of *Ixodes scapularis* are: \_\_**white-footed mice**\_ and\_\_**chipmunks**\_\_\_\_.
+
+\
+c. Lyme disease risk posed by host-seeking nymphs of *I. scapularis* is greatest during \_\_ **early summer, May to July**\_\_ (season/months) while Lyme disease risk posed by host-seeking adults is greatest during \_\_**the fall and into the winter, October to December**\_\_ (season/months).
+
+\
+d. The natural reservoir and competent hosts of *Borrelia burgdorferi* in North America: \_\_\_**white-footed mice**\_\_\_. White-tailed deer are the \_\_\_**reproductive hosts, supporting the tick population**\_\_\_ in the Lyme disease system.
+
+\
+8. Georgia has a white-tailed deer population of \~ 1 million. A total of 1351 samples from hunter-harvested deer were tested for Chronic Wasting Disease in 2022. None of the samples tested positive for CWD. Using the hypergeometric distribution, Georgia DNR determines that CWD is not present above 0.2% prevalence in Georgia's white-tailed deer population. You are asked to comment on Georgia DNR's CWD surveillance approach. In your commentary, explain the downside of using hypergeometric distribution for making decisions about wildlife disease surveillance. (10 points)
+
+**The GDNR estimated that the prevalence of CWD in its white-tailed deer population was not above 0.2% using a hypergeometric distribution after observing 0 infected individuals in a sample size of 1351. Since they were unable to find a single positive individual, they were correct in not assuming that the prevalence was simply 0%, instead it could be the case that they just happened to miss all of the infected individuals due to their sampling methods. Instead, they assumed that the prevalence was greater than zero but no more than 0.2%. After assuming this, they can use the hypergeometric table to determine hypothetically, the minimum number of deer necessary to sample in order to detect CWD. In this case, using the total population number (\~1 million), the prevalence of 0.02%, and a confidence of 95%, the GDNR should sample find at least one individual positive for CWD among 298 sampled deer. In this case, the GDNR sampled 1351 individuals and didnt find a single positive individual, this doesn't necessarily mean that the sample size given by the hypergeometric distribution is wrong, once again they could have just missed all the positive individuals by chance. In this case I would opt for using the rule of three since there was zero prevalence among the samples. The rule of three is 3/N, where n is the total number of sampled individuals, and in this case would be 3/1351= 0.002 or 0.2%.**
+
+\
+9.Place the following diseases in appropriate quadrants in the above figure. Explain your choice of quadrants. (10 points)\
+
+**To answer this question I have named each quadrant using the labels designated in Figure 2 of the Fenton and Pendersen, 2005 publication provided in the files section on Canvas.**
+
+**Quadrant 1:** **Case 1 - spillover**
+
+**Quadrant 2: Case 2 - Apparent multihost pathogen**
+
+**Quadrant 3: Case 3 - True multihost pathogen**
+
+**Quadrant 4: Case 4 - Potential EID**
+
+a\. SARS-CoV-2: **Quadrant 4 or a potential emerging infectious disease. SARS-CoV-2 is rarely transmitted between the reservoir species, bats, and the target host humans, however human-human transmission rate is very high. This is a textbook example of an potential EID, where H1 to H2 transmission rate is low but the within-H2 transmission rate is high, as defined by Fenton and Pederson.**
+
+\
+b. Hantavirus Pulmonary Syndrome: **Quadrant 1 or spillover. Hantavirus Pulmonary Syndrome is contracted through direct contact with contaminated rodent feces, but is not transmitted from human to human, humans are the dead end host. This is a textbook example of spillover, where transmission from H1 to H2 is rare and the within-H2 transmission does not exist.**
+
+\
+c. Langya Henipavirus: **Quadrant 1 or spillover. This pathogen is highly localized to the Henan and Shendong regions of China and is contracted through close contact with infected domestic animals and livestock. The reservoir of the pathogen are shrews, which livestock or domestic pets might then come in direct contact with their feces or other bodily fluids and become infected. human infection then occurs after close interaction with the infected lovestock or pets; there has yet to be any documentation of human-human infection. As defined by Fenton and Pederson, the H1 to H2 transmission rate here is low but still above the invasion threshold and the within-H2 transmission rate is very low or even zero.**
+
+\
+d. Brucellosis: **Quadrant 3 or a true multihost pathogen. In this case, both the within and between species transmission rates are high. An example would be the spread of brucellosis between elk and moose populations**
+
+\
+e. West Nile virus: **Quadrant 1 or spillover. There is transmission from birds to mosquitos to humans, however there is no human-human transmission so within-H2 transmission is low.**
+
+\
+10. Anisakiasis is the disease caused by infection with the stomach worm *Anisakis simplex*. It reaches sexual maturity and reproduces in marine mammals. In the following figure, identify the definitive host, a dead-end host, a paratenic host, and an intermediate host. Explain your answers. (8 points)
+
+**Definitive host: Marine mammals, the definitive host is where the parasite reproduces. According to the diagram, the worm releases eggs into the mammal's feces, implying reproductive activity taking place in that host.**
+
+**Dead-end host: Humans, the diagram does not have any arrows coming from the human host and moving onto any other steps. This leads me to infer that the cycle is broken, making the human host a dead-end host because the parasite is no longer able to continue reproducing. I'd assume this is because human feces is not a direct input to the marine environment and any eggs that may have been the result of worm reproduction within the human, mammal, host will not survive in a non-marine environment.**
+
+**Paratenic host: Seafish and cephalopods, paratenic host are substitute hosts which are not he prefered intermediate host, but do not interrupt the live cycle of the worm pathogen. In this case the seafish and cephalopods might ingest the free living larvae or larvae-containing crustaceans, but then will be ingested by the marine mammal host, in this case a dolphin.**
+
+**Intermediate host: Crustaceans, the crustacean ingests the free-living larvae and then becomes food for the larger mammal, which wouldn't otherwise filter feed for larvae.**
+
+\
+11. All infected hosts are diseased. Comment using appropriate examples. (3 points)
+
+**Infection does not necessarily mean that the host is diseased. Infection is the presence of a pathogen which has the ability to produce disease in and or on an animal. The disease is that occurrence of a dysfunction as the result of the presence of that infection in the host. A pathogen can be present without causing a disease. An example of this might be West Nile Virus and its reservoir the American robin, who have the potential to be infected with WNV but often do not exhibit symptoms of an infection. Transmission of WNV typically occurs when a mosquito feeds on an infected individual and then goes on to bite other anmials. When infecting other species of birds, such as cormorants, bald eagles, flamingos, etc. the infection will cause disease, ultimately leading to death of the infected individual. Additionally, mosquitos may also bite humans, in which WNV infection causes flu-like symptoms of disease.**
+
+\
+12. Klepac et al. estimated an R0 of 2.5 for the 2002 Phocine Distemper virus epidemic in Dutch harbor seals. Assuming that an effective PDV vaccine is available, what proportion of the seal population should be vaccinated to prevent a future outbreak of PDV? (3 points)
+
+**Percent vaccination necessary to prevent an outbreak is 1- (1/R0)**
+
+**1-(1/R0): 1- (1/2.5) --\> 0.6 or 60% of the population**
+
+\
+13. What are some of the main challenges in managing wildlife diseases? Explain using relevant examples. (6 points)
+
+**Some of the main challenges to managing wildlife disease include the impact of human action on wildlife habitat, the disease toll on conservation efforts, and that wildlife are the source of EID afflicting humans. Firstly, human development has had a significant impact on habitat reduction of wild animals. Deforestation and urban sprawl decrease the wild land coverage and force animals to converge in increasingly smaller areas, artificially increasing the frequency of interactions between individuals. A prime example of this is *Chlamydia* in koala populations, which is running rampant largely due to the reduction in natural koala habiat as the result of urban development. Secondly, the disease toll on wild populations has been so dramatic that the conservation effort spent to preserve species are more or less unable to keep up with the rate of extinction. An example of that is the Alleghany wood rat, who's population have been significantly reduced due to infection by round worm eggs deposited by raccoons outside wood rat dens. The large number of raccoons and the fact that they are wild and uncontrollable means that any efforts to conserve the Alleghany wood rat can easily be thwarted by random raccoon movement. Lastly, EIDs often crossover between wild animals and humans during close interaction. Transmission of EIDs between species usually occurs very rarely so keeping the public educated on the potential dangers of wildlife interactions is difficult because a majority of the population might never be exposed to the pathogen. One example is CWD in white-tailed deer. There is no vaccine treatment for CWD, instead complex manangement plans must be used to slow its spread. Even if there were such a therapy, the management of a wild deer population and treatment of infected individuals with a vaccine is an insurmountable task. There is just no feasible way such a treatment could work, the sheer scale and unpredictability of wild populations makes addressing infection on a individual level an impossible task. That is why when it comes to pathogens infecting large, wild populations complex management approaches like phase-specific strategies are the most effective measure in slowing down the spread.**
